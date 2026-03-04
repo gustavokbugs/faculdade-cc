@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//teste commit
+
 public class Ex1044 {
 
     public static boolean valida_multiplos(int a, int b) {
